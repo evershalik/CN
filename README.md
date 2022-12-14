@@ -6,7 +6,7 @@ Practical Questions of Computer Networks
 
 ## To clone
 ```bash
-git clone https://github.com/evershalik/Computer_networking.git
+git clone https://github.com/evershalik/CN.git
 ```
 
 ```bash
